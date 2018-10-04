@@ -4,7 +4,7 @@
 
 Syarat kehadiran mengikuti event ini harus kirim PR ya :)
 
-| No | Name | Email | Ability |
-| --- | ------ | --- | --- | --- |
-| 1  | Joko Susilo | susilo.j8@gmail.com | `React Ekosistem`, `PHP` |
-| 2  | xxx | xxx@gmail.com | `DevOps`, `System Administrator` |
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
